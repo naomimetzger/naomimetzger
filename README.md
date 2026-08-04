@@ -10,6 +10,20 @@
 
 ---
 
+### about me
+
+hi! im naomi, 11 x british triple jump champion who has been obsessed with tech and videos since i was a kid
+
+i made an nft collection in 2021 which funded my athletics
+
+i have worked with base, solana, skillshare and zo computer on short form video content
+
+i am an illustrator, video editor, photographer and presenter
+
+and now also an ai builder
+
+---
+
 ### now
 
 i create tech explainer videos and tutorials 
