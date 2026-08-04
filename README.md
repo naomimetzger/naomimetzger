@@ -1,6 +1,7 @@
+
 ## Hi there 👋
 
-<img src="header.png" alt="naomi metzger" width="100%">
+<img width="1280" height="360" alt="alt-yellow" src="https://github.com/user-attachments/assets/1ee72889-2307-4b91-99af-af2424187278" />
 
 `athlete brain. zero coding background. building anyway.`
 
