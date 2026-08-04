@@ -30,6 +30,12 @@ i create tech explainer videos and tutorials
 
 video creator, presenter and content strategist 
 
----</div>
+---
+
+### what's here
+	
+skills	claude skills i built and use every day — voice, video scripts, linkedin, goals
+prompts	the actual prompts behind my builds, not cleaned-up versions
+apps	things i've shipped — see the pinned repos below
 
 
