@@ -10,11 +10,9 @@
 
 ### now
 
-building AI and web3 apps in public as a total beginner.
+creating apps with ai 
 
-started vibecoding in early 2025 with zero coding background and haven't stopped shipping since. 11x british triple jump champion — turns out the training brain works on software too.
-
-everything i learn goes back out. no gatekeeping!!
+video creator and content strategist
 
 ---
 
@@ -32,13 +30,6 @@ everything i learn goes back out. no gatekeeping!!
 
 ![Claude](https://img.shields.io/badge/Claude-D4773E?style=flat&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-14F195?style=flat&logo=solana&logoColor=black)
 
 ---
 
