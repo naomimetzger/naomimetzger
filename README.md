@@ -6,7 +6,7 @@
 
 ` video creator building apps and tools with ai `
 
-[naomimetzger.com](https://naomimetzger.com) · [@afrochicksnft](https://x.com/afrochicksnft) · [@afrochicksart](https://instagram.com/afrochicksart)
+[naomimetzger.com](https://naomimetzger.com) · [@naometzger](https://x.com/naometzger) · [@naometzger](https://instagram.com/naometzger)
 
 ---
 
