@@ -1,39 +1,37 @@
-
-
 <img width="1280" height="360" alt="alt-yellow" src="https://github.com/user-attachments/assets/1ee72889-2307-4b91-99af-af2424187278" />
 
 <div align="center">
 
-` video creator building apps and tools with ai `
+` video creator exploring ai editing and building tools for creators `
 
-[naomimetzger.com](https://naomimetzger.com) · [@naometzger](https://x.com/naometzger) · [@naometzger](https://instagram.com/naometzger)
+[naomimetzger.com](https://naomimetzger.com) · [@naometzger on X](https://x.com/naometzger) · [@naometzger on Instagram](https://instagram.com/naometzger)
 
 ---
 
 ### about me
 
-hi! im naomi, 11 x british triple jump champion who has been obsessed with tech and videos since i was a kid
+hi! i'm naomi, an 11 x british triple jump champion who's been obsessed with tech and video since i was a kid
 
-i made an nft collection in 2021 which funded my athletics
+i made an nft collection in 2021 that funded my athletics
 
-i have worked with base, solana, skillshare and zo computer on short form video content
+i've worked with base, solana, skillshare and zo computer on short-form video content
 
-i am an illustrator, video editor, photographer and presenter
-
-and now also an ai builder
+i'm an illustrator, video editor, photographer and presenter — and now also an ai builder
 
 ---
 
 ### now
 
-i create tech explainer videos and tutorials 
+i'm exploring ai video editing and sharing what i learn along the way
 
-video creator, presenter and content strategist 
+i build editing skills, recipes and tools that help creators make videos with their own taste, without getting overwhelmed by options
 
 ---
 
 ### what's here
-	
-claude skills i built and use every day see the pinned repos below
 
+editing skills and tools i've built and tested, including my free editing cookbook and transcript tool
 
+see the pinned repos below
+
+</div>
